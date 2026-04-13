@@ -1,1 +1,1 @@
-<img width="879" height="653" alt="UML CLASS DIAGRAM" src="https://github.com/user-attachments/assets/25809424-7c26-4e20-b216-05db2cd092b5" />
+<img width="1017" height="784" alt="image" src="https://github.com/user-attachments/assets/8c84119f-66d2-4e5b-a475-01d528e84cb0" />
